@@ -4,3 +4,4 @@ Creating a game for Driftwood game jam
 Game: Dan Lungaro </br>
 Music: Dan Lungaro </br>
 Assets: RPG Maker MZ RTP, Visustella Horror School, Horror City Hospital, Cyber Sci-Fi SFX </br>
+Game Engine: RPG Maker MZ </br>
