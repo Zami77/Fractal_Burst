@@ -9,5 +9,5 @@ null,
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eliot","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""},
 {"id":9,"battlerName":"Main_Character_Battler","characterIndex":0,"characterName":"Main_Character_Walking","classId":9,"equips":[50,0,0,102,0],"faceIndex":0,"faceName":"Main Character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Isaac","nickname":"","note":"","profile":""},
-{"id":10,"battlerName":"","characterIndex":4,"characterName":"SF_Monster","classId":10,"equips":[52,0,0,0,0],"faceIndex":4,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"SU-T3F","nickname":"Teff","note":"","profile":""}
+{"id":10,"battlerName":"","characterIndex":4,"characterName":"SF_Monster","classId":10,"equips":[52,0,0,103,0],"faceIndex":4,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"SU-T3F","nickname":"Teff","note":"","profile":""}
 ]
