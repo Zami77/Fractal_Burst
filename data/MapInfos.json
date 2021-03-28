@@ -10,7 +10,7 @@ null,
 {"id":8,"expanded":false,"name":"Boss Monster (Top Right)","order":8,"parentId":6,"scrollX":0,"scrollY":0},
 {"id":9,"expanded":false,"name":"Computer Quiz (Bottom Left)","order":9,"parentId":6,"scrollX":619,"scrollY":352},
 {"id":10,"expanded":false,"name":"Trick Room (Bottom Right)","order":10,"parentId":6,"scrollX":1131,"scrollY":641},
-{"id":11,"expanded":true,"name":"Final Area","order":11,"parentId":0,"scrollX":1131,"scrollY":352},
+{"id":11,"expanded":true,"name":"Final Area","order":11,"parentId":0,"scrollX":1131,"scrollY":641},
 {"id":12,"expanded":false,"name":"Emperor's Hospital Room","order":12,"parentId":11,"scrollX":619,"scrollY":344},
 {"id":13,"expanded":true,"name":"End Cutscene","order":13,"parentId":0,"scrollX":619,"scrollY":344},
 {"id":14,"expanded":false,"name":"Credits","order":14,"parentId":0,"scrollX":0,"scrollY":0}
