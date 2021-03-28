@@ -1,3 +1,4 @@
+[THE GAME CAN BE PLAYED HERE]()
 # Fractal Burst
 Fractals are repeating patterns, often found throughout nature. Time is one. Follow Isaac and his android partner in attempting to alter the neverending fractal of time.
 
