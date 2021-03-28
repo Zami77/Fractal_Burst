@@ -1,5 +1,6 @@
-# DriftwoodGameJam_6
-Creating a game for Driftwood game jam
+# Fractal Burst
+Creating a game for the 6th Driftwood Game Jam.
+
 ## Credits
 Game: Dan Lungaro </br>
 Music: Dan Lungaro </br>
