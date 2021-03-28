@@ -25,7 +25,11 @@ Game Engine: RPG Maker MZ </br>
 
 ## Strategy Guide
 ### Combat Tips
-Teff is a support android, so use him like one! He can be used to heal and give items (such as soda) to Isaac. This lets Isaac use his big damage attacks, specifically the Time Bullet you gain at level 5. Teff's rocket launcher ability he gains at level 3 is an area effect, so it's highly effective against a group of enemies. If you are struggling at any point, make sure to buy additional items at the vending machines. An easy strategy to beat most enemies is to have Isaac use his special attacks while Teff gives him soda to replenish his MP.
+Teff is a support android, so use him like one! He can be used to heal and give items (such as soda) to Isaac. This lets Isaac use his big damage attacks, specifically the Time Bullet you gain at level 5. 
+
+Teff's rocket launcher ability he gains at level 3 is an area effect, so it's highly effective against a group of enemies. 
+
+If you are struggling at any point, make sure to buy additional items at the vending machines. An easy strategy to beat most enemies is to have Isaac use his special attacks while Teff gives him soda to replenish his MP.
 
 If you want additional experience, defeat all the enemies in the top left corner room. If you defeat all of them and the nightmare creature boss, you will be at level 7, making the final boss a bit easier.
 
