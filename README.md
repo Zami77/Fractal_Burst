@@ -36,9 +36,9 @@ If you want additional experience, defeat all the enemies in the top left corner
 ### Puzzle Answers
 Seconds in a year: 31,536,000 </br>
 
-Computer Quiz Answer #1: "what is undone is undone"
-Computer Quiz Answer #2: "An infinitely repeating pattern"
-Computer Quiz Answer #3: "SU-T3F"
+Computer Quiz Answer #1: "what is undone is undone" </br>
+Computer Quiz Answer #2: "An infinitely repeating pattern" </br>
+Computer Quiz Answer #3: "SU-T3F" </br>
 
 8 is the number you seek in the top left corner room. 
 
