@@ -9,6 +9,7 @@ null,
 {"id":7,"expanded":false,"name":"Number Puzzle (Top Left)","order":7,"parentId":6,"scrollX":0,"scrollY":0},
 {"id":8,"expanded":false,"name":"Boss Monster (Top Right)","order":8,"parentId":6,"scrollX":0,"scrollY":0},
 {"id":9,"expanded":false,"name":"Computer Quiz (Bottom Left)","order":9,"parentId":6,"scrollX":0,"scrollY":0},
-{"id":10,"expanded":false,"name":"Trick Room (Bottom Right)","order":10,"parentId":6,"scrollX":0,"scrollY":0},
-{"id":11,"expanded":false,"name":"Final Area","order":11,"parentId":0,"scrollX":1131,"scrollY":672}
+{"id":10,"expanded":false,"name":"Trick Room (Bottom Right)","order":10,"parentId":6,"scrollX":1131,"scrollY":641},
+{"id":11,"expanded":true,"name":"Final Area","order":11,"parentId":0,"scrollX":1139,"scrollY":672},
+{"id":12,"expanded":false,"name":"Emperor's Hospital Room","order":12,"parentId":11,"scrollX":1131,"scrollY":641}
 ]
