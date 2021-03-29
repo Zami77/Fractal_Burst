@@ -22,7 +22,7 @@ The game was designed to be completed in under 30 minutes, and will most likely 
 ## Credits
 Game: Dan Lungaro </br>
 Music: Dan Lungaro </br>
-Assets: RPG Maker MZ RTP, Visustella Horror School, Horror City Hospital, Cyber Sci-Fi SFX, Crystal Cavern Asset Pack, Tyler Warren</br>
+Assets: RPG Maker MZ RTP, Visustella Horror School, Horror City Hospital, Cyber Sci-Fi SFX, Crystal Cavern Asset Pack, Cyber City Exterior Pack, Tyler Warren</br>
 Game Engine: RPG Maker MZ </br>
 
 ## Strategy Guide
