@@ -5,7 +5,7 @@ Fractals are repeating patterns, often found throughout nature. Time is one. Fol
 
 ![Home_Screen](Screenshots/Home_Screen_Screenshot.PNG)
 
-Fractal Burst was created for the 6th Anuual Driftwood Gaming Jam and is my first attempt at game development. I chose the themes
+Fractal Burst was created for the 6th Annual Driftwood Gaming Jam and is my first attempt at game development. I chose the themes
 - Not what it seems
 - Time Travel
 - Babies (You'll understand by the end)
