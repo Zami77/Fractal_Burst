@@ -29,7 +29,7 @@ Game Engine: RPG Maker MZ </br>
 
 ### General Tips
 - Every corner room has a Time Crystal, so don't feel too apprehensive about saving and healing up. </br>
-- Make sure to investige your surrondings, there are free items about. </br>
+- Make sure to investigate your surroundings, there are free items about. </br>
 - Don't forget about the vending machine! Those items can help you through tough battles. </br>
 - The recommended path is </br>
 Bottom Right Corner -> Bottom Left Corner -> Top Left Corner -> Top Right Corner
