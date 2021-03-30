@@ -1,5 +1,5 @@
 # Fractal Burst
-[THE GAME CAN BE PLAYED HERE](https://zami77.github.io/Fractal_Burst/) </br>
+[THE GAME CAN BE PLAYED HERE](https://zami77.itch.io/fractal-burst) </br>
 
 Fractals are repeating patterns, often found throughout nature. Time is one. Follow Isaac and his android partner in an attempt to alter the neverending fractal of time.
 
