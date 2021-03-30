@@ -14,6 +14,10 @@ I had a lot of fun making this game, from writing the story and dialogue to crea
 
 The game was designed to be completed in under 30 minutes, and will most likely clock in at about 20 minutes. At the bottom of this readme is a guide to get you through the puzzles and some combat strategy, if you need it.
 
+## Soundtrack
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1234477630&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rushrocks77" title="Straying Minds" target="_blank" style="color: #cccccc; text-decoration: none;">Straying Minds</a> · <a href="https://soundcloud.com/rushrocks77/sets/fractal-burst-ost" title="Fractal Burst OST" target="_blank" style="color: #cccccc; text-decoration: none;">Fractal Burst OST</a></div>
+
 ## Screenshots
 ![Teff_Dialogue](Screenshots/Teff_Dialogue_Screenshot.PNG)
 ![Four_Corners](Screenshots/Four_Corners_Screenshot.PNG)
